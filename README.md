@@ -24,6 +24,20 @@ Drop-in replacement for the good old 5.5mm, barrel jack.
 - Allows for both positive and negative polarity, depending on the bottom PCB used.
 - Voltage and current negotiation parameters can be changed by modifying resistor straps.
 
+## 3dconnexion CadMouse
+
+![usb-c-cadmouse](assets/usb-c-cadmouse.png)
+
+Replacement PCB for the 3Dconnexion CadMouse. Originally Micro USB.
+Requires some milling to fit the new PCB.
+
+## 3dconnexion SpaceMouse
+
+![usb-c-spacemouse](assets/usb-c-spacemouse.png)
+
+Replacement PCB for the 3Dconnexion SpaceMouse. Originally Micro USB.
+Includes a 3D-printed plastic part.
+
 ## FAQ
 
 - Q: What's the USB connector on these designs?  

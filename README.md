@@ -24,6 +24,13 @@ Drop-in replacement for the good old 5.5mm, barrel jack.
 - Allows for both positive and negative polarity, depending on the bottom PCB used.
 - Voltage and current negotiation parameters can be changed by modifying resistor straps.
 
+## Isolated UART, 1.8-5.5V
+
+![usb-c-serial](assets/usb-c-serial.png)
+
+Serial port adapter with two control lines (RTS and DTR), 1.5kV isolated.
+The initial use was programming ESP8266 but comes useful in many other scenarios.
+
 ## 3dconnexion CadMouse
 
 ![usb-c-cadmouse](assets/usb-c-cadmouse.png)

@@ -23,6 +23,7 @@ Drop-in replacement for the good old 5.5mm, barrel jack.
 - Puts the USB-C connector at the correct height by stacking three PCBs together.
 - Allows for both positive and negative polarity, depending on the bottom PCB used.
 - Voltage and current negotiation parameters can be changed by modifying resistor straps.
+- Subject to limitations of USB-C PD - for example, an Apple charger can't output 12V.
 
 ## [Isolated UART, 1.8-5.5V](usb-c-serial/)
 

@@ -5,12 +5,24 @@
 This is my random collection of adapters and PCBs designed to make everything
 in my lab USB-C compatible.
 
-## USB-C replacement for USB-B connector
+## USB type B replacement
 
 ![usb-b2c](assets/usb-b2c.png)
 
 Drop-in replacement for the old classic USB type B connector. Includes
 a 3d-printed plastic part to match the connector shape.
+
+## Barrel Jack replacement
+
+![usb-c-barreljack](assets/usb-c-barreljack.png)
+
+Drop-in replacement for the good old 5.5mm, barrel jack.
+
+- Mostly fits in the existing footprints.
+- Set to 12V/3A by default.
+- Puts the USB-C connector at the correct height by stacking three PCBs together.
+- Allows for both positive and negative polarity, depending on the bottom PCB used.
+- Voltage and current negotiation parameters can be changed by modifying resistor straps.
 
 ## FAQ
 

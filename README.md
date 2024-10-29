@@ -5,14 +5,14 @@
 This is my random collection of adapters and PCBs designed to make everything
 in my lab USB-C compatible.
 
-## USB type B replacement
+## [USB type B replacement](usb-b2c/)
 
 ![usb-b2c](assets/usb-b2c.png)
 
 Drop-in replacement for the old classic USB type B connector. Includes
 a 3d-printed plastic part to match the connector shape.
 
-## Barrel Jack replacement
+## [Barrel Jack replacement](usb-c-barreljack/)
 
 ![usb-c-barreljack](assets/usb-c-barreljack.png)
 
@@ -24,21 +24,21 @@ Drop-in replacement for the good old 5.5mm, barrel jack.
 - Allows for both positive and negative polarity, depending on the bottom PCB used.
 - Voltage and current negotiation parameters can be changed by modifying resistor straps.
 
-## Isolated UART, 1.8-5.5V
+## [Isolated UART, 1.8-5.5V](usb-c-serial/)
 
 ![usb-c-serial](assets/usb-c-serial.png)
 
 Serial port adapter with two control lines (RTS and DTR), 1.5kV isolated.
 The initial use was programming ESP8266 but comes useful in many other scenarios.
 
-## 3dconnexion CadMouse
+## [3Dconnexion CadMouse](usb-c-cadmouse/)
 
 ![usb-c-cadmouse](assets/usb-c-cadmouse.png)
 
 Replacement PCB for the 3Dconnexion CadMouse. Originally Micro USB.
 Requires some milling to fit the new PCB.
 
-## 3dconnexion SpaceMouse
+## [3Dconnexion SpaceMouse](usb-c-spacemouse/)
 
 ![usb-c-spacemouse](assets/usb-c-spacemouse.png)
 
